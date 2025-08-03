@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Firoj Ahmed</h1>
-<h3 align="center">About Me:</h3>
+<h1 align="center">💫 About Me:</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firojahmed99&label=Profile%20views&color=0e75b6&style=flat" alt="firojahmed99" /> </p>
 
