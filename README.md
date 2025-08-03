@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Firoj Ahmed</h1>
-<h3 align="center">Passionate and self-motivated Flutter developer with strong fundamentals in Dart and cross-platform app development. Recently learning hands-on projects using Flutter, focusing on responsive UI, API integration, and state management. I'm constantly looking for new ways to challenge myself and take my development skills to the next level. Eager to join a dynamic team where I can contribute to mobile app development and continue to learn and grow in a professional environment.</h3>
+<h3 align="center">About Me:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firojahmed99&label=Profile%20views&color=0e75b6&style=flat" alt="firojahmed99" /> </p>
 
