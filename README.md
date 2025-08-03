@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me:</h1>
+<h1>💫 About Me:</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firojahmed99&label=Profile%20views&color=0e75b6&style=flat" alt="firojahmed99" /> </p>
 
