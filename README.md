@@ -17,24 +17,22 @@
 <p align="left">
 
 <a href="https://facebook.com/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white"/>
 </a>
 
 <a href="https://www.quora.com/profile/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora"/>
+  <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/@yourchannel" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
 </a>
 
 </p>
-
-
 
 ---
 
