@@ -13,26 +13,27 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
 
-<a href="https://facebook.com/yourprofile" target="blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
+<a href="https://facebook.com/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
 </a>
 
-<a href="https://linkedin.com/in/yourprofile" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white"/>
+<a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn" />
 </a>
 
-<a href="https://www.quora.com/profile/yourprofile" target="blank">
-  <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white"/>
+<a href="https://www.quora.com/profile/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white&style=for-the-badge" alt="Quora" />
 </a>
 
-<a href="https://youtube.com/@yourchannel" target="blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
+<a href="https://youtube.com/@yourchannel" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" alt="YouTube" />
 </a>
 
 </p>
+
 
 ---
 
